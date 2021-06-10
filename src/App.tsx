@@ -139,7 +139,7 @@ function App() {
          </Route>
        </Switch>
      </Layout.Content>
-     <Layout.Footer style={{textAlign: "center"}}>Watch Schedule 2021 | created by yukafi.dev</Layout.Footer>
+     <Layout.Footer style={{textAlign: "center"}}>Gofar hilman tanpa bahasa lo gue yomek mas mas jogo distro biasa 🤪</Layout.Footer>
    </Layout>
   );
 }
