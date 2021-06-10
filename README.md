@@ -16,3 +16,8 @@
 #### notes :clipboard::paperclip:
 
 Pastikan telah melakukan register dan join kelas pada [Autograde System](https://autograde-dashboard.vercel.app/)
+
+
+#### Demo ngabers
+
+``` Gofar hilman tanpa bahasa **lo gue** yomek mas mas jogo distro ```
