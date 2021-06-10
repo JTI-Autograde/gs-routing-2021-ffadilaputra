@@ -20,4 +20,4 @@ Pastikan telah melakukan register dan join kelas pada [Autograde System](https:/
 
 #### Demo ngabers
 
-``` Gofar hilman tanpa bahasa **lo gue** yomek mas mas jogo distro ```
+``` Gofar hilman tanpa bahasa lo gue yomek mas mas jogo distro ```
